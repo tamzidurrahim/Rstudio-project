@@ -30,4 +30,4 @@ on the UCI Bank Marketing dataset, conducted using R and RStudio.
 3. Run the script line by line or all at once
 
 ## 👥 Group
-IDS Midterm Project — Group 11, Section C, Spring 25-26
+IDS Midterm Project — Group 11, Spring 25-26
